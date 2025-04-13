@@ -19,4 +19,6 @@
 
 📊 **GitHub Stats:**  
 ![Seu Status](https://github-readme-stats.vercel.app/api?username=alecyalcin&show_icons=true&theme=dracula&hide=issues) 
+
+📊 **Linguagens Utilizadas:**  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alecyalcin&layout=compact&theme=dracula) 
