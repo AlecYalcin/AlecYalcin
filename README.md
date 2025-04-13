@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Alec Yalcin!
+# 👋 Hello, I'm Alec Yalcin!
 
-**💻 Software Engineers | 📊 Data Scientist and Data Analyst**
+**💻 Software Engineer | 📊 Data Scientist and Data Analyst**
 
 🔭 **Currently:**  
 - Working with Data Analysis and Python automation
