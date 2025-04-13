@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou Alec Yalcin!
 
-**📊 Analista de Dados | Python | SQL**  
+**💻 Engenheiro de Software | 📊 Analista de Dados **
 
 🔭 **Atualmente:**  
 - Trabalhando com análise de dados e automação em Python.  
-- Explorando Machine Learning (projeto FruitLearning).  
+- Explorando Machine Learning (projeto FruitLearning).
+- Desenvolvendo soluções full-stack e pipelines de dados.  
+- Construindo sistemas escaláveis com arquitetura limpa.  
 
 🌱 **Aprendendo:**  
 - Numpy, Pandas, e Scikit-learn.
-
-💡 **Projetos em Destaque:**  
-- [FruitLearning](https://github.com/alecyalcin/FruitLearning): Pipeline de dados para análise de frutas.  
+- Arquitetura de projetos DDD e TDD
+- Construir Softwares em Python
 
 🛠️ **Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
