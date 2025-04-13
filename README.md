@@ -1,26 +1,22 @@
-<!--
-**AlecYalcin/AlecYalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Alec Yalcin!
 
-Here are some ideas to get you started:
+**📊 Analista de Dados | Python | SQL**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Atualmente:**  
+- Trabalhando com análise de dados e automação em Python.  
+- Explorando Machine Learning (projeto FruitLearning).  
 
-<h1>Prazer, o meu nome é Alec.</h1>
-<h3>Hello, my name is Alec.</h3>
+🌱 **Aprendendo:**  
+- Numpy, Pandas, e Scikit-learn.
 
-<p> Desenvolvedor Full-Stack, pratica em diversos projetos e formação de curso técnico em Informática no IFRN Campus Caicó </p>
-<p> Full-Stack Developer, I have many experiences in many different projects and a formation at IFRN Campus Caicó, I'm a Technician of Informatics </p>
+💡 **Projetos em Destaque:**  
+- [FruitLearning](https://github.com/alecyalcin/FruitLearning): Pipeline de dados para análise de frutas.  
 
-<h5 color="red">✅HTML, CSS ans Javascript</h5>
-<h5>✅Python with Django</h5>
-<h5>✅PHP with Laravel</h5>
-<h5>✅MySQL and SQlite</h5>
-<h5>✅Lua for Fun</h5>
+🛠️ **Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+📊 **GitHub Stats:**  
+![Seu Status](https://github-readme-stats.vercel.app/api?username=alecyalcin&show_icons=true&theme=dracula&hide=issues) 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alecyalcin&layout=compact&theme=dracula) 
