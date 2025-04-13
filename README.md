@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alec Yalcin!
 
-**💻 Engenheiro de Software | 📊 Analista de Dados **
+** 💻 Engenheiro de Software | 📊 Analista de Dados **
 
 🔭 **Atualmente:**  
 - Trabalhando com análise de dados e automação em Python.  
